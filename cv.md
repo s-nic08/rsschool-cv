@@ -1,4 +1,4 @@
-# ![MIKALAI BARYSENKA](https://avatars.githubusercontent.com/u/94560742?v=4 "AVA")
+# MIKALAI BARYSENKA
 *****************************************************************************************************
 
 ## Contacts
@@ -41,3 +41,5 @@ describe("Multiply", () => {
 ## Languages
 + Russian - native speaker.
 + English - maybe A2 
+
+![MIKALAI BARYSENKA](https://avatars.githubusercontent.com/u/94560742?v=4 "AVA")
