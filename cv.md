@@ -1,18 +1,18 @@
-# MIKALAI BARYSENKA
+# ![MIKALAI BARYSENKA](https://avatars.githubusercontent.com/u/94560742?v=4 "AVA")
+*****************************************************************************************************
 
 ## Contacts
 
 + Location: Minsk, Belarus
 + Phone: +375 29 173-43-12
 + Email: super-nic08@mail.ru
-+ GitHub: s-nic08
++ GitHub: [s-nic08](https://github.com/s-nic08)
 
 ## About Me
 
 I am 29 years old. I am sure that my skills will help me achieve success in front-end development.
 I like to learn something new and grow above myself.
 
-*****************************************************************************************************
 ## Skills
 
 + HTML
