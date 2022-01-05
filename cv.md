@@ -40,6 +40,6 @@ describe("Multiply", () => {
 
 ## Languages
 + Russian - native speaker.
-+ English - maybe A2 
++ English - A2 
 
 ![MIKALAI BARYSENKA](https://avatars.githubusercontent.com/u/94560742?v=4 "AVA")

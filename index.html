@@ -1,14 +1,98 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <title>CV MIKALAI BARYSENKA</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>HTML fot CV</title>
+    <link href="style.css" type="text/css" rel="stylesheet">
 </head>
 <body>
-    <h1>Text for future</h1>
-    
+    <header class="flex-conteiner1">
+        
+            <div class="flex-child1">
+                <img src="images/photo.jpg" alt="my photo" width="100%" height="100%">
+            </div>
+            <nav class="flex-child2"> 
+                <h1>MIKALAI BARYSENKA</h1>
+                <h2>Future Junior Developer</h2>
+                <ul>
+                    <li class="nav"> <a href="#1">Contacts </a></li>
+                    <li class="nav"><a href="#2">About Me</a></li>
+                    <li class="nav"><a href="#3">Skills</a></li>
+                    <li class="nav"><a href="#4">Code Examples</a></li>
+                    <li class="nav"><a href="#5">Experience</a></li>
+                    <li class="nav"><a href="#6">Education</a></li>
+                    <li class="nav"><a href="#7">Languages</a></li>
+                </ul>
+            </nav>
+          
+    </header>
+    <main class="main-content">
+        
+        <article class="sidebar">
+            <br>
+            <h3 id="1">Contacts</h3>
+            <ul>
+                <li>Location: Minsk, Belarus</li>
+                <li>Phone: +375 29 173-43-12</li>
+                <li>Email: super-nic08@mail.ru</li>
+                <li><a href="https://github.com/s-nic08" id="git">GitHub: [s-nic08]</a></li>
+            </ul><br>
+
+            <h3 id="2" style="margin-top:30px">About Me</h3>
+            <div>
+                I am 29 years old. I am sure that my skills will help me achieve success in front-end development.
+I like to learn something new and grow above myself.
+            </div><br>
+
+            <h3 id="3"style="margin-top:30px">Skills</h3>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Photoshop</li>
+                <li>Keep learning…</li>
+            </ul>
+        </article>
+        
+        <article class="text"><br>
+            <h3 id="4">---------------- Code Examples ----------------</h3>
+            <div>
+                <pre>
+                    <code>
+                        const assert = require("chai").assert;
+
+                        describe("Multiply", () => {
+                        it("fixed tests", () => {
+                        assert.strictEqual(multiply(1,1), 1);
+                        assert.strictEqual(multiply(2,1), 2);
+                        assert.strictEqual(multiply(2,2), 4);
+                        assert.strictEqual(multiply(3,5), 15);   
+                        });
+                        });
+                    </code>
+                </pre>
+            </div>
+            <h3 id="5">---------------- Experience ----------------</h3>
+            <div class="exp"><a href="https://s-nic08.github.io/rsschool-cv/cv" id="ex">Markdown CV </a></div><br>
+        
+            <h3 id="6">---------------- Education ----------------</h3>
+            <div class="educ"><p>Belarusian Trade and Economic University</p></div><br>
+        
+            <h3 id="7">---------------- Languages ----------------</h3>
+            <div class="lang">
+                <p>Russian - native speaker</p>
+                <p>English - A2</p>
+            </div><br>
+        </article>
+    </main>
+    <footer class="foot">
+        <div>
+            <a href="https://rs.school/">
+            <img class="f" src="images/rs_school_js.svg" alt="logo" width="100px" height="70px" >
+            </a>
+            <p><a href="https://github.com/s-nic08">s-nic08 &nbsp &nbsp &nbsp</a> year-2022 </p>
+        </div>
+    </footer>   
 </body>
 </html>
